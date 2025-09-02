@@ -1,0 +1,438 @@
+header,cluster_trace,postal_code,ageb,estado,municipio,colonia,metodo_asignacion
+CEC-20-1314|MEX|ST_2|Cluster_NA|2020/08/31,,55044,1503300014369,Mexico,Ecatepec de Morelos,Real de Ecatepec,Asignado_Municipio
+CEC-21-4010|MEX|ST_2|Cluster_NA|2021/06/17,,.,1505800011359,Mexico,Nezahualcoyotl,Maravillas,Asignado_Municipio
+CEC-19-0546|MEX|ST_2|Cluster_146|2019/10/11,,.,1503700710721,Mexico,Ixtapaluca,.,Asignado_Municipio
+CEC-22-7773|MEX|ST_2|Cluster_NA|2022/06/01,,.,1507000010209,Mexico,La Paz_EMX,Tepozanes,Asignado_Municipio
+CEC-22-7416|MEX|ST_2|Cluster_NA|2022/05/09,,.,1509900451417,Mexico,Tecamac,San Pablo Tecalco,Asignado_Municipio
+CEC-19-0775|MEX|ST_2|Cluster_NA|2019/11/08,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-20-1521|MEX|ST_2|Cluster_NA|2020/09/23,,54695,1503500090233,Mexico,Huehuetoca,Santa Teresa 3 y 3 Bis,Asignado_Municipio
+CEC-19-0083|MEX|ST_2|Cluster_NA|2019/08/21,,.,1510400010124,Mexico,Tlalnepantla de Baz,.,Asignado_Municipio
+CEC-20-1986|MEX|ST_2|Cluster_NA|2020/11/11,,.,1503700710721,Mexico,Ixtapaluca,.,Asignado_Municipio
+CEC-19-0186|MEX|ST_2|Cluster_NA|2019/09/04,,.,1509900451417,Mexico,Tecamac,.,Asignado_Municipio
+CEC-19-0027|MEX|ST_2|Cluster_NA|2019/07/19,,.,1501300011376,Mexico,Atizapan de Zaragoza,.,Asignado_Municipio
+CEC-20-1062|MEX|ST_2|Cluster_NA|2020/08/04,,.,1510400010124,Mexico,Tlalnepantla de Baz,.,Asignado_Municipio
+CEC-19-0127|MEX|ST_2|Cluster_NA|2019/08/28,,.,1503300014369,Mexico,Ecatepec de Morelos,.,Asignado_Municipio
+CEC-20-1411|MEX|ST_2|Cluster_NA|2020/09/14,,.,1503300014369,Mexico,Ecatepec de Morelos,Luis Donaldo Colosio,Asignado_Municipio
+CEC-22-8338|MEX|ST_2|Cluster_NA|2022/07/18,,.,1502400010348,Mexico,Chimalhuacan,.,Asignado_Municipio
+CEC-22-6930|MEX|ST_2|Cluster_NA|2022/03/25,,.,1503600010086,Mexico,Huixquilucan,San Fernando,Asignado_Municipio
+CEC-19-0298|MEX|ST_2|Cluster_NA|2019/09/13,,.,1510300010358,Mexico,Tlalmanalco,.,Asignado_Municipio
+CEC-22-7199|MEX|ST_2|Cluster_NA|2022/04/19,,.,1510000020074,Mexico,Texcoco,Pentecostes,Asignado_Municipio
+CEC-21-4333|MEX|ST_2|Cluster_NA|2021/07/15,,.,1502400010348,Mexico,Chimalhuacan,.,Asignado_Municipio
+CEC-22-6963|MEX|ST_2|Cluster_NA|2022/03/28,,.,1501300011376,Mexico,Atizapan de Zaragoza,Alfredo V Bonfil,Asignado_Municipio
+CEC-22-8463|MEX|ST_2|Cluster_NA|2022/08/02,,.,1510000020074,Mexico,Texcoco,.,Asignado_Municipio
+CEC-19-0304|MEX|ST_2|Cluster_NA|2019/09/17,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-21-4811|MEX|ST_2|Cluster_NA|2021/09/13,,.,1503300014369,Mexico,Ecatepec de Morelos,.,Asignado_Municipio
+CEC-19-0990|MEX|ST_2|Cluster_NA|2019/12/05,,.,1510000020074,Mexico,Texcoco,Wenceslao Victoria,Asignado_Municipio
+CEC-22-8761|MEX|ST_2|Cluster_NA|2022/08/25,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-19-0520|MEX|ST_2|Cluster_NA|2019/10/09,,.,1510000020074,Mexico,Texcoco,.,Asignado_Municipio
+CEC-19-1027|MEX|ST_2|Cluster_NA|2019/12/11,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-19-0589|MEX|ST_2|Cluster_NA|2019/10/16,,.,1512200010866,Mexico,Valle de Chalco Solidaridad,.,Asignado_Municipio
+CEC-19-0877|MEX|ST_2|Cluster_NA|2019/11/22,,.,1509900451417,Mexico,Tecamac,.,Asignado_Municipio
+CEC-20-1308|MEX|ST_2|Cluster_NA|2020/08/31,,.,1503700710721,Mexico,Ixtapaluca,Santo Tomas,Asignado_Municipio
+CEC-22-7814|MEX|ST_2|Cluster_NA|2022/06/03,,.,1502400010348,Mexico,Chimalhuacan,Acuitlapilco Primera Seccion,Asignado_Municipio
+CEC-21-4926|MEX|ST_2|Cluster_NA|2021/09/22,,.,1503300014369,Mexico,Ecatepec de Morelos,Carlos Hank Gonzalez,Asignado_Municipio
+CEC-19-0441|MEX|ST_2|Cluster_NA|2019/10/02,,.,1512200010866,Mexico,Valle de Chalco Solidaridad,.,Asignado_Municipio
+CEC-19-0165|MEX|ST_2|Cluster_NA|2019/08/30,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-21-4751|MEX|ST_2|Cluster_NA|2021/09/02,,.,1502000010029,Mexico,Coacalco de Berriozabal,Santa Maria II,Asignado_Municipio
+CEC-21-3971|MEX|ST_2|Cluster_NA|2021/06/11,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-21-4753|MEX|ST_2|Cluster_NA|2021/09/02,,.,1503300014369,Mexico,Ecatepec de Morelos,Jardines de Morelos 5a Seccion,Asignado_Municipio
+CEC-21-3430|MEX|ST_2|Cluster_NA|2021/04/26,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-19-0927|MEX|ST_2|Cluster_NA|2019/11/27,,.,1503300014369,Mexico,Ecatepec de Morelos,.,Asignado_Municipio
+CEC-21-4630|MEX|ST_2|Cluster_NA|2021/08/20,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-20-1254|MEX|ST_2|Cluster_NA|2020/08/24,,.,1505800011359,Mexico,Nezahualcoyotl,Juarez Pantitlan,Asignado_Municipio
+CEC-19-0297|MEX|ST_2|Cluster_NA|2019/09/13,,.,1502400010348,Mexico,Chimalhuacan,.,Asignado_Municipio
+CEC-21-4860|MEX|ST_2|Cluster_NA|2021/09/15,,.,1505800011359,Mexico,Nezahualcoyotl,Ampliacion General Jose Vicente Villada Poniente,Asignado_Municipio
+CEC-20-1437|MEX|ST_2|Cluster_NA|2020/09/14,,54695,1503500090233,Mexico,Huehuetoca,Santa Teresa 3 y 3 Bis,Asignado_Municipio
+CEC-22-9314|MEX|ST_2|Cluster_NA|2022/10/17,,.,1503300014369,Mexico,Ecatepec de Morelos,San Andres de la Canada,Asignado_Municipio
+CEC-21-4298|MEX|ST_2|Cluster_NA|2021/07/13,,.,1503300014369,Mexico,Ecatepec de Morelos,Tulpetlac,Asignado_Municipio
+CEC-21-4350|MEX|ST_2|Cluster_78|2021/07/19,,.,1509900451417,Mexico,Tecamac,.,Asignado_Municipio
+CEC-22-8289|MEX|ST_2|Cluster_NA|2022/07/13,,.,1512200010866,Mexico,Valle de Chalco Solidaridad,.,Asignado_Municipio
+CEC-19-0612|MEX|ST_2|Cluster_NA|2019/10/18,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-19-0009|MEX|ST_2|Cluster_NA|2019/07/17,,.,1506000180382,Mexico,Nicolas Romero,.,Asignado_Municipio
+CEC-22-9532|MEX|ST_2|Cluster_NA|2022/11/08,,.,1503700710721,Mexico,Ixtapaluca,Geovillas Ixtapaluca 2000,Asignado_Municipio
+CEC-20-1367|MEX|ST_2|Cluster_NA|2020/09/07,,.,151210001248A,Mexico,Cuautitlan Izcalli,El Cerrito,Asignado_Municipio
+CEC-21-5103|MEX|ST_2|Cluster_NA|2021/10/04,,.,1501300011376,Mexico,Atizapan de Zaragoza,.,Asignado_Municipio
+CEC-20-1182|MEX|ST_2|Cluster_NA|2020/08/17,,.,1503700710721,Mexico,Ixtapaluca,.,Asignado_Municipio
+CEC-21-4027|MEX|ST_2|Cluster_NA|2021/06/17,,.,1509900451417,Mexico,Tecamac,Villa del Real,Asignado_Municipio
+CEC-22-9512|MEX|ST_2|Cluster_NA|2022/11/07,,.,1510400010124,Mexico,Tlalnepantla de Baz,.,Asignado_Municipio
+CEC-19-0333|MEX|ST_2|Cluster_NA|2019/09/19,,.,1505800011359,Mexico,Nezahualcoyotl,.,Asignado_Municipio
+CEC-22-9122|MEX|ST_2|Cluster_NA|2022/09/26,,.,1512000010344,Mexico,Zumpango,.,Asignado_Municipio
+CEC-22-9411|MEX|ST_2|Cluster_121|2022/10/26,121.0,56095,1510200010100,Mexico,Tepetlaoxtoc,Santiago,Asignado_Municipio
+CEC-22-7841|MEX|ST_2|Cluster_NA|2022/06/06,,.,1509900451417,Mexico,Tecamac,Los Heroes Tecamac,Asignado_Municipio
+CEC-19-0001|MEX|ST_1|Cluster_NA|2019/07/17,,.,0900200010148,Ciudad de Mexico,Alvaro Obregon,.,Asignado_Municipio
+CEC-22-8385|MEX|ST_1|Cluster_NA|2022/07/20,,02125,0900300010728,Ciudad de Mexico,Azcapotzalco,San Martin Xochinahuac,Asignado_Municipio
+CEC-19-0296|MEX|ST_1|Cluster_NA|2019/09/13,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-22-8581|MEX|ST_1|Cluster_NA|2022/08/10,,.,0901700010070,Ciudad de Mexico,Xochimilco,.,Asignado_Municipio
+CEC-22-7869|MEX|ST_1|Cluster_NA|2022/06/07,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,Moderna,Asignado_Municipio
+CEC-19-0633|MEX|ST_1|Cluster_NA|2019/10/23,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-19-0212|MEX|ST_1|Cluster_NA|2019/09/06,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-19-0262|MEX|ST_1|Cluster_NA|2019/09/11,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0263|MEX|ST_1|Cluster_NA|2019/09/11,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-22-8176|MEX|ST_1|Cluster_NA|2022/07/04,,.,0900500013411,Ciudad de Mexico,Coyoacan,Culhuacan CTM Seccion X,Asignado_Municipio
+CEC-19-0191|MEX|ST_1|Cluster_NA|2019/09/04,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-19-0588|MEX|ST_1|Cluster_NA|2019/10/16,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-3026|MEX|ST_1|Cluster_NA|2021/03/22,,02125,0900300010728,Ciudad de Mexico,Azcapotzalco,San Martin Xochinahuac,Asignado_Municipio
+CEC-20-1539|MEX|ST_1|Cluster_NA|2020/09/28,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Santiago Acahualtepec,Asignado_Municipio
+CEC-19-0042|MEX|ST_1|Cluster_NA|2019/07/24,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0649|MEX|ST_1|Cluster_NA|2019/10/23,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-22-8764|MEX|ST_1|Cluster_NA|2022/08/26,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-19-0223|MEX|ST_1|Cluster_NA|2019/09/06,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0796|MEX|ST_1|Cluster_NA|2019/11/13,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1633|MEX|ST_1|Cluster_NA|2020/10/07,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-19-0219|MEX|ST_1|Cluster_NA|2019/09/06,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1408|MEX|ST_1|Cluster_NA|2020/09/10,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1019|MEX|ST_1|Cluster_NA|2020/07/27,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-22-9869|MEX|ST_1|Cluster_NA|2022/12/14,,.,0901100011323,Ciudad de Mexico,La Magdalena Contreras,El Tanque,Asignado_Municipio
+CEC-19-0163|MEX|ST_1|Cluster_NA|2019/08/30,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1040|MEX|ST_1|Cluster_NA|2020/07/29,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0817|MEX|ST_1|Cluster_NA|2019/11/14,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,Santo Domingo,Asignado_Municipio
+CEC-21-4385|MEX|ST_1|Cluster_NA|2021/07/20,,07329,0900800010508,Ciudad de Mexico,Gustavo A. Madero,Ticoman,Asignado_Municipio
+CEC-20-1398|MEX|ST_1|Cluster_NA|2020/09/10,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-21-5190|MEX|ST_1|Cluster_NA|2021/10/11,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-21-4372|MEX|ST_1|Cluster_NA|2021/07/20,,04350,0900500013411,Ciudad de Mexico,Coyoacan,Copilco,Asignado_Municipio
+CEC-21-5354|MEX|ST_1|Cluster_NA|2021/10/26,,01048,0900200010148,Ciudad de Mexico,Alvaro Obregon,Las Aguilas,Asignado_Municipio
+CEC-21-5893|MEX|ST_1|Cluster_NA|2021/12/10,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-21-3785|MEX|ST_1|Cluster_NA|2021/05/25,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-3149|MEX|ST_1|Cluster_NA|2021/03/29,,13209,0901400010543,Ciudad de Mexico,Tlahuac,Zapotitlan,Asignado_Municipio
+CEC-19-0458|MEX|ST_1|Cluster_NA|2019/10/07,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-22-8562|MEX|ST_1|Cluster_NA|2022/08/11,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,Popotla,Asignado_Municipio
+CEC-21-2700|MEX|ST_1|Cluster_NA|2021/02/18,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-22-7860|MEX|ST_1|Cluster_NA|2022/06/07,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,Acueducto de Guadalupe,Asignado_Municipio
+CEC-19-0487|MEX|ST_1|Cluster_NA|2019/10/09,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-22-9284|MEX|ST_1|Cluster_NA|2022/10/13,,02125,0900300010728,Ciudad de Mexico,Azcapotzalco,San Martin Xochinahuac,Asignado_Municipio
+CEC-19-0024|MEX|ST_1|Cluster_NA|2019/07/19,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-19-0925|MEX|ST_1|Cluster_NA|2019/11/27,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0072|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-19-0189|MEX|ST_1|Cluster_213|2019/09/04,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-19-0613|MEX|ST_1|Cluster_213|2019/10/18,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-21-4300|MEX|ST_1|Cluster_NA|2021/07/12,,.,0901400010543,Ciudad de Mexico,Tlahuac,Las Arboledas,Asignado_Municipio
+CEC-21-3229|MEX|ST_1|Cluster_NA|2021/04/09,,04270,0900500013411,Ciudad de Mexico,Coyoacan,Santa Martha del Sur Quetzalcoatl,Asignado_Municipio
+CEC-22-6565|MEX|ST_1|Cluster_205|2022/02/21,,02110,0900300010728,Ciudad de Mexico,Azcapotzalco,San Pablo Xalpa,Asignado_Municipio
+CEC-19-0630|MEX|ST_1|Cluster_NA|2019/10/23,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-6680|MEX|ST_1|Cluster_NA|2022/03/02,,10730,0901100011323,Ciudad de Mexico,La Magdalena Contreras,Santa Teresa,Asignado_Municipio
+CEC-19-0629|MEX|ST_1|Cluster_NA|2019/10/23,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-20-1250|MEX|ST_1|Cluster_NA|2020/08/24,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Atlampa,Asignado_Municipio
+CEC-21-5929|MEX|ST_1|Cluster_NA|2021/12/14,,01048,0900200010148,Ciudad de Mexico,Alvaro Obregon,Las Aguilas,Asignado_Municipio
+CEC-19-0044|MEX|ST_1|Cluster_NA|2019/07/24,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-22-6522|MEX|ST_1|Cluster_NA|2022/02/18,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Roma Norte,Asignado_Municipio
+CEC-22-8038|MEX|ST_1|Cluster_NA|2022/06/22,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-22-7884|MEX|ST_1|Cluster_NA|2022/06/08,,15120,0901600010020,Ciudad de Mexico,Venustiano Carranza,Candelaria de los Patos FOVISSSTE,Asignado_Municipio
+CEC-19-0146|MEX|ST_1|Cluster_NA|2019/08/28,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-20-2138|MEX|ST_1|Cluster_NA|2020/11/30,,09160,0901000011716,Ciudad de Mexico,Iztapalapa,Solidaridad,Asignado_Municipio
+CEC-19-0278|MEX|ST_1|Cluster_NA|2019/09/12,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-20-2014|MEX|ST_1|Cluster_NA|2020/11/13,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-19-0058|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-20-1232|MEX|ST_1|Cluster_NA|2020/08/21,,05249,0900600010185,Ciudad de Mexico,Cuajimalpa de Morelos,Jardines de la Palma,Asignado_Municipio
+CEC-19-0524|MEX|ST_1|Cluster_NA|2019/10/11,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-20-2156|MEX|ST_1|Cluster_NA|2020/11/30,,.,0901700010070,Ciudad de Mexico,Xochimilco,.,Asignado_Municipio
+CEC-21-5717|MEX|ST_1|Cluster_NA|2021/11/29,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0974|MEX|ST_1|Cluster_NA|2019/12/04,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-21-5613|MEX|ST_1|Cluster_NA|2021/11/22,,.,0901700010070,Ciudad de Mexico,Xochimilco,Santa Maria Nativitas,Asignado_Municipio
+CEC-19-0999|MEX|ST_1|Cluster_NA|2019/12/09,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-20-1319|MEX|ST_1|Cluster_NA|2020/09/01,,02109,0900300010728,Ciudad de Mexico,Azcapotzalco,Manuel Rivera Anaya CROC 1,Asignado_Municipio
+CEC-21-4662|MEX|ST_1|Cluster_NA|2021/08/23,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-8104|MEX|ST_1|Cluster_NA|2022/06/28,,09160,0901000011716,Ciudad de Mexico,Iztapalapa,Solidaridad,Asignado_Municipio
+CEC-19-0885|MEX|ST_1|Cluster_NA|2019/11/22,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-19-0059|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-22-7150|MEX|ST_1|Cluster_NA|2022/04/12,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Obrera,Asignado_Municipio
+CEC-19-0085|MEX|ST_1|Cluster_NA|2019/08/21,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-0967|MEX|ST_1|Cluster_NA|2019/12/04,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-20-2034|MEX|ST_1|Cluster_NA|2020/11/18,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-2096|MEX|ST_1|Cluster_NA|2020/11/24,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-19-0981|MEX|ST_1|Cluster_NA|2019/12/04,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-6873|MEX|ST_1|Cluster_NA|2022/03/22,,14335,0901500011074,Ciudad de Mexico,Tlalpan,Villa del Puente,Asignado_Municipio
+CEC-19-0780|MEX|ST_1|Cluster_NA|2019/11/11,,.,0901500011074,Ciudad de Mexico,Tlalpan,Tlalpan Centro,Asignado_Municipio
+CEC-22-8426|MEX|ST_1|Cluster_NA|2022/08/01,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Santa Martha Acatitla,Asignado_Municipio
+CEC-19-0691|MEX|ST_1|Cluster_NA|2019/10/30,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-19-0663|MEX|ST_1|Cluster_NA|2019/10/25,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-19-0882|MEX|ST_1|Cluster_NA|2019/11/22,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-22-7654|MEX|ST_1|Cluster_NA|2022/05/24,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-20-1894|MEX|ST_1|Cluster_NA|2020/10/30,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-19-0397|MEX|ST_1|Cluster_NA|2019/09/27,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-22-8154|MEX|ST_1|Cluster_NA|2022/06/30,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-21-2388|MEX|ST_1|Cluster_NA|2021/01/15,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,La Pastora,Asignado_Municipio
+CEC-19-0129|MEX|ST_1|Cluster_NA|2019/08/28,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-0696|MEX|ST_1|Cluster_NA|2019/10/30,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-0053|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0687|MEX|ST_1|Cluster_NA|2019/10/30,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-22-6429|MEX|ST_1|Cluster_NA|2022/02/10,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Roma Norte,Asignado_Municipio
+CEC-19-0204|MEX|ST_1|Cluster_NA|2019/09/06,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-19-0914|MEX|ST_1|Cluster_NA|2019/11/27,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-20-1448|MEX|ST_1|Cluster_NA|2020/09/15,,.,0900200010148,Ciudad de Mexico,Alvaro Obregon,Lomas de Guadalupe,Asignado_Municipio
+CEC-21-3501|MEX|ST_1|Cluster_NA|2021/04/30,,13209,0901400010543,Ciudad de Mexico,Tlahuac,Zapotitlan,Asignado_Municipio
+CEC-19-0590|MEX|ST_1|Cluster_NA|2019/10/16,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-2595|MEX|ST_1|Cluster_NA|2021/02/08,,09160,0901000011716,Ciudad de Mexico,Iztapalapa,Solidaridad,Asignado_Municipio
+CEC-20-1999|MEX|ST_1|Cluster_NA|2020/11/11,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,San Bartolo Atepehuacan,Asignado_Municipio
+CEC-19-1032|MEX|ST_1|Cluster_NA|2019/12/11,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-21-5407|MEX|ST_1|Cluster_NA|2021/10/29,,.,0901500011074,Ciudad de Mexico,Tlalpan,La Joya,Asignado_Municipio
+CEC-19-0076|MEX|ST_1|Cluster_NA|2019/08/21,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0827|MEX|ST_1|Cluster_NA|2019/11/15,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-19-0552|MEX|ST_1|Cluster_NA|2019/10/16,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-5066|MEX|ST_1|Cluster_NA|2021/10/01,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Centro (Area 4),Asignado_Municipio
+CEC-21-3196|MEX|ST_1|Cluster_NA|2021/04/06,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-19-0564|MEX|ST_1|Cluster_NA|2019/10/16,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-20-1380|MEX|ST_1|Cluster_NA|2020/09/08,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,Narvarte Oriente,Asignado_Municipio
+CEC-19-0795|MEX|ST_1|Cluster_NA|2019/11/13,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-22-8863|MEX|ST_1|Cluster_NA|2022/09/02,,01580,0900200010148,Ciudad de Mexico,Alvaro Obregon,Bosques de Tarango,Asignado_Municipio
+CEC-19-0026|MEX|ST_1|Cluster_NA|2019/07/19,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-19-0187|MEX|ST_1|Cluster_NA|2019/09/04,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1648|MEX|ST_1|Cluster_NA|2020/10/08,,04720,0900500013411,Ciudad de Mexico,Coyoacan,Pedregal del Maurel,Asignado_Municipio
+CEC-19-0045|MEX|ST_1|Cluster_NA|2019/07/24,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-19-0431|MEX|ST_1|Cluster_NA|2019/10/02,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-19-0477|MEX|ST_1|Cluster_NA|2019/10/07,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0993|MEX|ST_1|Cluster_NA|2019/12/09,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-0716|MEX|ST_1|Cluster_NA|2019/11/01,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-20-1406|MEX|ST_1|Cluster_NA|2020/09/10,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-19-0023|MEX|ST_1|Cluster_NA|2019/07/19,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-22-6323|MEX|ST_1|Cluster_NA|2022/02/01,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Lomas de Zaragoza,Asignado_Municipio
+CEC-20-1614|MEX|ST_1|Cluster_NA|2020/10/05,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,America,Asignado_Municipio
+CEC-22-6128|MEX|ST_1|Cluster_NA|2022/01/14,,05349,0900600010185,Ciudad de Mexico,Cuajimalpa de Morelos,Cruz Manca,Asignado_Municipio
+CEC-22-8851|MEX|ST_1|Cluster_NA|2022/08/31,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0161|MEX|ST_1|Cluster_NA|2019/08/30,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-7298|MEX|ST_1|Cluster_NA|2022/04/27,,.,0900200010148,Ciudad de Mexico,Alvaro Obregon,Lomas de Becerra,Asignado_Municipio
+CEC-19-0606|MEX|ST_1|Cluster_NA|2019/10/18,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0789|MEX|ST_1|Cluster_NA|2019/11/13,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-8458|MEX|ST_1|Cluster_NA|2022/08/03,,.,0900500013411,Ciudad de Mexico,Coyoacan,San Francisco Culhuacan Barrio de La Magdalena,Asignado_Municipio
+CEC-19-0342|MEX|ST_1|Cluster_NA|2019/09/20,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-20-2020|MEX|ST_1|Cluster_NA|2020/11/13,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-5434|MEX|ST_1|Cluster_NA|2021/11/03,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,San Miguel Chapultepec I Seccion,Asignado_Municipio
+CEC-22-8288|MEX|ST_1|Cluster_NA|2022/07/12,,09857,0901000011716,Ciudad de Mexico,Iztapalapa,San Francisco INFONAVIT,Asignado_Municipio
+CEC-21-4806|MEX|ST_1|Cluster_NA|2021/09/08,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-1008|MEX|ST_1|Cluster_NA|2019/12/09,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-22-5994|MEX|ST_1|Cluster_NA|2022/01/04,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0917|MEX|ST_1|Cluster_NA|2019/11/27,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-21-3643|MEX|ST_1|Cluster_NA|2021/05/14,,02450,0900300010728,Ciudad de Mexico,Azcapotzalco,Miguel Hidalgo,Asignado_Municipio
+CEC-19-0459|MEX|ST_1|Cluster_NA|2019/10/07,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-21-4306|MEX|ST_1|Cluster_NA|2021/07/14,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0476|MEX|ST_1|Cluster_NA|2019/10/07,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0931|MEX|ST_1|Cluster_NA|2019/11/27,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-21-2958|MEX|ST_1|Cluster_NA|2021/03/16,,04350,0900500013411,Ciudad de Mexico,Coyoacan,Integracion Latinoamericana,Asignado_Municipio
+CEC-20-2203|MEX|ST_1|Cluster_NA|2020/12/04,,14130,0901500011074,Ciudad de Mexico,Tlalpan,"Lic. Emilio Portes Gil ""PEMEX""",Asignado_Municipio
+CEC-19-0815|MEX|ST_1|Cluster_NA|2019/11/13,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-8162|MEX|ST_1|Cluster_84|2022/07/01,,.,0901100011323,Ciudad de Mexico,La Magdalena Contreras,Las Cruces,Asignado_Municipio
+CEC-19-0496|MEX|ST_1|Cluster_NA|2019/10/09,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0426|MEX|ST_1|Cluster_NA|2019/10/02,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0975|MEX|ST_1|Cluster_NA|2019/12/04,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-22-7514|MEX|ST_1|Cluster_NA|2022/05/16,,02125,0900300010728,Ciudad de Mexico,Azcapotzalco,San Martin Xochinahuac,Asignado_Municipio
+CEC-19-0088|MEX|ST_1|Cluster_NA|2019/08/21,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-19-0727|MEX|ST_1|Cluster_NA|2019/11/06,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-20-1883|MEX|ST_1|Cluster_NA|2020/10/29,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-22-9790|MEX|ST_1|Cluster_NA|2022/12/06,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1951|MEX|ST_1|Cluster_NA|2020/11/05,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1773|MEX|ST_1|Cluster_NA|2020/10/20,,.,0900600010185,Ciudad de Mexico,Cuajimalpa de Morelos,San Mateo Tlaltenango,Asignado_Municipio
+CEC-19-0755|MEX|ST_1|Cluster_NA|2019/11/08,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-0756|MEX|ST_1|Cluster_NA|2019/11/08,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-21-3500|MEX|ST_1|Cluster_NA|2021/04/29,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0056|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0475|MEX|ST_1|Cluster_NA|2019/10/07,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-19-0101|MEX|ST_1|Cluster_NA|2019/08/23,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-4813|MEX|ST_1|Cluster_NA|2021/09/13,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1987|MEX|ST_1|Cluster_NA|2020/11/11,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0010|MEX|ST_1|Cluster_NA|2019/07/17,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-22-9641|MEX|ST_1|Cluster_NA|2022/11/22,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-3007|MEX|ST_1|Cluster_NA|2021/03/18,,09577,0901000011716,Ciudad de Mexico,Iztapalapa,Fuerte de Loreto,Asignado_Municipio
+CEC-19-0946|MEX|ST_1|Cluster_NA|2019/11/29,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0887|MEX|ST_1|Cluster_NA|2019/11/22,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-7576|MEX|ST_1|Cluster_NA|2022/05/18,,07329,0900800010508,Ciudad de Mexico,Gustavo A. Madero,Ticoman,Asignado_Municipio
+CEC-19-0659|MEX|ST_1|Cluster_NA|2019/10/23,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-20-1364|MEX|ST_1|Cluster_NA|2020/09/07,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-7876|MEX|ST_1|Cluster_NA|2022/06/07,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Xalpa,Asignado_Municipio
+CEC-20-2018|MEX|ST_1|Cluster_NA|2020/11/13,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0554|MEX|ST_1|Cluster_NA|2019/10/16,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0406|MEX|ST_1|Cluster_NA|2019/09/27,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-9313|MEX|ST_1|Cluster_NA|2022/10/17,,02450,0900300010728,Ciudad de Mexico,Azcapotzalco,Miguel Hidalgo,Asignado_Municipio
+CEC-19-0972|MEX|ST_1|Cluster_NA|2019/12/04,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-22-8762|MEX|ST_1|Cluster_NA|2022/08/24,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-0495|MEX|ST_1|Cluster_NA|2019/10/09,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-9250|MEX|ST_1|Cluster_NA|2022/10/07,,.,0900903000647,Ciudad de Mexico,Iztacalco,Agricola Pantitlan,Asignado_Municipio
+CEC-21-5099|MEX|ST_1|Cluster_NA|2021/10/05,,09170,0901000011716,Ciudad de Mexico,Iztapalapa,La Colmena,Asignado_Municipio
+CEC-20-2217|MEX|ST_1|Cluster_NA|2020/12/07,,04350,0900500013411,Ciudad de Mexico,Coyoacan,Copilco,Asignado_Municipio
+CEC-21-3321|MEX|ST_1|Cluster_NA|2021/04/15,,13209,0901400010543,Ciudad de Mexico,Tlahuac,Zapotitlan,Asignado_Municipio
+CEC-19-0449|MEX|ST_1|Cluster_NA|2019/10/04,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-20-2016|MEX|ST_1|Cluster_NA|2020/11/13,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-21-2993|MEX|ST_1|Cluster_NA|2021/03/18,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,Santa Rosa,Asignado_Municipio
+CEC-21-5017|MEX|ST_1|Cluster_NA|2021/09/27,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-8496|MEX|ST_1|Cluster_NA|2022/08/04,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-5050|MEX|ST_1|Cluster_NA|2021/09/30,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0714|MEX|ST_1|Cluster_NA|2019/11/01,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-22-8724|MEX|ST_1|Cluster_NA|2022/08/22,,.,0901700010070,Ciudad de Mexico,Xochimilco,.,Asignado_Municipio
+CEC-22-8767|MEX|ST_1|Cluster_NA|2022/08/25,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0505|MEX|ST_1|Cluster_NA|2019/10/09,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-21-2657|MEX|ST_1|Cluster_NA|2021/02/15,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Leyes de Reforma 3a Seccion,Asignado_Municipio
+CEC-19-0048|MEX|ST_1|Cluster_NA|2019/07/24,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-19-0474|MEX|ST_1|Cluster_NA|2019/10/07,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-8037|MEX|ST_1|Cluster_NA|2022/06/21,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-19-0831|MEX|ST_1|Cluster_NA|2019/11/15,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-19-0104|MEX|ST_1|Cluster_NA|2019/08/23,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-22-8461|MEX|ST_1|Cluster_NA|2022/08/02,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-22-6736|MEX|ST_1|Cluster_NA|2022/03/08,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Cuauhtemoc,Asignado_Municipio
+CEC-19-0075|MEX|ST_1|Cluster_NA|2019/08/21,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0413|MEX|ST_1|Cluster_NA|2019/10/02,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-1007|MEX|ST_1|Cluster_NA|2019/12/09,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-20-1490|MEX|ST_1|Cluster_NA|2020/09/22,,02419,0900300010728,Ciudad de Mexico,Azcapotzalco,Trabajadores de PEMEX,Asignado_Municipio
+CEC-19-0322|MEX|ST_1|Cluster_NA|2019/09/18,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-19-0109|MEX|ST_1|Cluster_NA|2019/08/23,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-19-0110|MEX|ST_1|Cluster_NA|2019/08/23,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-20-1707|MEX|ST_1|Cluster_NA|2020/10/12,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-19-0390|MEX|ST_1|Cluster_476|2019/09/25,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-22-8112|MEX|ST_1|Cluster_NA|2022/06/29,,02419,0900300010728,Ciudad de Mexico,Azcapotzalco,Trabajadores de PEMEX,Asignado_Municipio
+CEC-21-5060|MEX|ST_1|Cluster_NA|2021/10/01,,02109,0900300010728,Ciudad de Mexico,Azcapotzalco,Manuel Rivera Anaya CROC 1,Asignado_Municipio
+CEC-19-0205|MEX|ST_1|Cluster_324|2019/09/06,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-21-4419|MEX|ST_1|Cluster_NA|2021/07/22,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-2408|MEX|ST_1|Cluster_NA|2021/01/19,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Roma Sur,Asignado_Municipio
+CEC-22-7981|MEX|ST_1|Cluster_NA|2022/06/16,,15120,0901600010020,Ciudad de Mexico,Venustiano Carranza,Candelaria de los Patos FOVISSSTE,Asignado_Municipio
+CEC-19-0678|MEX|ST_1|Cluster_NA|2019/10/28,,.,0900200010148,Ciudad de Mexico,Alvaro Obregon,.,Asignado_Municipio
+CEC-22-8672|MEX|ST_1|Cluster_NA|2022/08/19,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-4439|MEX|ST_1|Cluster_NA|2021/08/03,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-19-0660|MEX|ST_1|Cluster_NA|2019/10/24,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-8062|MEX|ST_1|Cluster_NA|2022/06/23,,09170,0901000011716,Ciudad de Mexico,Iztapalapa,La Colmena,Asignado_Municipio
+CEC-19-0701|MEX|ST_1|Cluster_NA|2019/10/30,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-8784|MEX|ST_1|Cluster_455|2022/08/29,,04270,0900500013411,Ciudad de Mexico,Coyoacan,Santa Martha del Sur Quetzalcoatl,Asignado_Municipio
+CEC-22-8229|MEX|ST_1|Cluster_NA|2022/07/07,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,San Rafael,Asignado_Municipio
+CEC-19-0645|MEX|ST_1|Cluster_NA|2019/10/23,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-20-2056|MEX|ST_1|Cluster_NA|2020/11/18,,.,0900903000647,Ciudad de Mexico,Iztacalco,Granjas Mexico,Asignado_Municipio
+CEC-19-0732|MEX|ST_1|Cluster_NA|2019/11/06,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-21-2560|MEX|ST_1|Cluster_NA|2021/02/04,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,10 de Mayo,Asignado_Municipio
+CEC-19-0854|MEX|ST_1|Cluster_NA|2019/11/20,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-22-8464|MEX|ST_1|Cluster_NA|2022/08/03,,.,0901300010885,Ciudad de Mexico,Milpa Alta,Cruztitla,Asignado_Municipio
+CEC-22-8245|MEX|ST_1|Cluster_NA|2022/07/07,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Leyes de Reforma 1a Seccion,Asignado_Municipio
+CEC-22-6637|MEX|ST_1|Cluster_NA|2022/03/01,,.,0900200010148,Ciudad de Mexico,Alvaro Obregon,Bosque,Asignado_Municipio
+CEC-22-7998|MEX|ST_1|Cluster_NA|2022/06/17,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,La Pastora,Asignado_Municipio
+CEC-19-0030|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-20-1486|MEX|ST_1|Cluster_NA|2020/09/21,,15120,0901600010020,Ciudad de Mexico,Venustiano Carranza,Candelaria de los Patos FOVISSSTE,Asignado_Municipio
+CEC-22-6909|MEX|ST_1|Cluster_NA|2022/03/24,,07549,0900800010508,Ciudad de Mexico,Gustavo A. Madero,La Esmeralda 2a Seccion,Asignado_Municipio
+CEC-22-9055|MEX|ST_1|Cluster_NA|2022/09/23,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-19-0464|MEX|ST_1|Cluster_NA|2019/10/07,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-19-0894|MEX|ST_1|Cluster_NA|2019/11/22,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,Lindavista Sur,Asignado_Municipio
+CEC-21-4159|MEX|ST_1|Cluster_NA|2021/06/30,,.,0900500013411,Ciudad de Mexico,Coyoacan,Pedregal de Santo Domingo,Asignado_Municipio
+CEC-22-7997|MEX|ST_1|Cluster_NA|2022/06/17,,.,0900500013411,Ciudad de Mexico,Coyoacan,Pedregal de Santo Domingo,Asignado_Municipio
+CEC-20-1255|MEX|ST_1|Cluster_NA|2020/08/25,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Degollado,Asignado_Municipio
+CEC-20-1243|MEX|ST_1|Cluster_NA|2020/08/21,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-7456|MEX|ST_1|Cluster_NA|2022/05/10,,04350,0900500013411,Ciudad de Mexico,Coyoacan,Integracion Latinoamericana,Asignado_Municipio
+CEC-19-0038|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-19-1000|MEX|ST_1|Cluster_NA|2019/12/09,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-20-1506|MEX|ST_1|Cluster_NA|2020/09/23,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1461|MEX|ST_1|Cluster_NA|2020/09/17,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-22-6605|MEX|ST_1|Cluster_NA|2022/02/25,,10100,0901100011323,Ciudad de Mexico,La Magdalena Contreras,Unidad Independencia IMSS,Asignado_Municipio
+CEC-22-8585|MEX|ST_1|Cluster_NA|2022/08/12,,04350,0900500013411,Ciudad de Mexico,Coyoacan,Integracion Latinoamericana,Asignado_Municipio
+CEC-21-4335|MEX|ST_1|Cluster_NA|2021/07/16,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-4448|MEX|ST_1|Cluster_NA|2021/08/04,,01048,0900200010148,Ciudad de Mexico,Alvaro Obregon,Las Aguilas,Asignado_Municipio
+CEC-19-0004|MEX|ST_1|Cluster_NA|2019/07/17,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-22-7957|MEX|ST_1|Cluster_NA|2022/06/15,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-7464|MEX|ST_1|Cluster_25|2022/05/10,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-22-8727|MEX|ST_1|Cluster_NA|2022/08/22,,.,0901700010070,Ciudad de Mexico,Xochimilco,.,Asignado_Municipio
+CEC-22-6398|MEX|ST_1|Cluster_NA|2022/02/08,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Lomas Estrella,Asignado_Municipio
+CEC-22-6039|MEX|ST_1|Cluster_NA|2022/01/07,,09227,0901000011716,Ciudad de Mexico,Iztapalapa,Cabeza de Juarez,Asignado_Municipio
+CEC-20-1396|MEX|ST_1|Cluster_NA|2020/09/09,,.,0901000011716,Ciudad de Mexico,Iztapalapa,San Pablo,Asignado_Municipio
+CEC-22-9344|MEX|ST_1|Cluster_NA|2022/10/20,,.,0901000011716,Ciudad de Mexico,Iztapalapa,San Antonio Culhuacan,Asignado_Municipio
+CEC-19-0043|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-7421|MEX|ST_1|Cluster_NA|2022/05/09,,.,0901500011074,Ciudad de Mexico,Tlalpan,San Pedro Martir,Asignado_Municipio
+CEC-21-2946|MEX|ST_1|Cluster_NA|2021/03/12,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-20-1024|MEX|ST_1|Cluster_NA|2020/07/28,,09369,0901000011716,Ciudad de Mexico,Iztapalapa,Alborada,Asignado_Municipio
+CEC-22-9204|MEX|ST_1|Cluster_NA|2022/10/04,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,Portales Norte,Asignado_Municipio
+CEC-19-0751|MEX|ST_1|Cluster_NA|2019/11/08,,.,0901200010604,Ciudad de Mexico,Miguel Hidalgo,.,Asignado_Municipio
+CEC-19-0808|MEX|ST_1|Cluster_NA|2019/11/13,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,El Rosario,Asignado_Municipio
+CEC-22-8456|MEX|ST_1|Cluster_NA|2022/08/02,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0642|MEX|ST_1|Cluster_NA|2019/10/23,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-6166|MEX|ST_1|Cluster_NA|2022/01/18,,.,0900200010148,Ciudad de Mexico,Alvaro Obregon,El Rodeo,Asignado_Municipio
+CEC-19-0169|MEX|ST_1|Cluster_198|2019/09/03,198.0,02109,0900300010728,Ciudad de Mexico,Azcapotzalco,Manuel Rivera Anaya CROC 1,Asignado_Municipio
+CEC-19-0976|MEX|ST_1|Cluster_NA|2019/12/04,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-22-6104|MEX|ST_1|Cluster_140|2022/01/13,,04350,0900500013411,Ciudad de Mexico,Coyoacan,Integracion Latinoamericana,Asignado_Municipio
+CEC-20-1365|MEX|ST_1|Cluster_NA|2020/09/07,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-7518|MEX|ST_1|Cluster_NA|2022/05/16,,01048,0900200010148,Ciudad de Mexico,Alvaro Obregon,Las Aguilas,Asignado_Municipio
+CEC-22-7519|MEX|ST_1|Cluster_NA|2022/05/16,,01048,0900200010148,Ciudad de Mexico,Alvaro Obregon,Las Aguilas,Asignado_Municipio
+CEC-21-4493|MEX|ST_1|Cluster_160|2021/08/06,160.0,09369,0901000011716,Ciudad de Mexico,Iztapalapa,Alborada,Asignado_Municipio
+CEC-19-0494|MEX|ST_1|Cluster_NA|2019/10/09,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-20-1431|MEX|ST_1|Cluster_NA|2020/09/14,,02110,0900300010728,Ciudad de Mexico,Azcapotzalco,Ecologica Novedades Impacto,Asignado_Municipio
+CEC-19-0220|MEX|ST_1|Cluster_NA|2019/09/06,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-19-0547|MEX|ST_1|Cluster_NA|2019/10/11,,.,0901700010070,Ciudad de Mexico,Xochimilco,.,Asignado_Municipio
+CEC-22-6746|MEX|ST_1|Cluster_NA|2022/03/10,,.,0901100011323,Ciudad de Mexico,La Magdalena Contreras,El Tanque,Asignado_Municipio
+CEC-21-2512|MEX|ST_1|Cluster_NA|2021/01/29,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Guerrero,Asignado_Municipio
+CEC-22-7046|MEX|ST_1|Cluster_NA|2022/04/04,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Juarez,Asignado_Municipio
+CEC-19-0595|MEX|ST_1|Cluster_NA|2019/10/18,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-21-2404|MEX|ST_1|Cluster_NA|2021/01/19,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Nonoalco Tlatelolco,Asignado_Municipio
+CEC-20-1194|MEX|ST_1|Cluster_NA|2020/08/17,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-22-9879|MEX|ST_1|Cluster_NA|2022/12/15,,.,0901100011323,Ciudad de Mexico,La Magdalena Contreras,San Bernabe Ocotepec,Asignado_Municipio
+CEC-19-0195|MEX|ST_1|Cluster_254|2019/09/06,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-22-9249|MEX|ST_1|Cluster_254|2022/10/10,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Cuchilla del Moral,Asignado_Municipio
+CEC-22-7378|MEX|ST_1|Cluster_NA|2022/05/04,,07269,0900800010508,Ciudad de Mexico,Gustavo A. Madero,El Arbolillo CTM,Asignado_Municipio
+CEC-19-0049|MEX|ST_1|Cluster_NA|2019/07/24,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-21-5053|MEX|ST_1|Cluster_NA|2021/09/30,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Valle del Sur,Asignado_Municipio
+CEC-22-8457|MEX|ST_1|Cluster_NA|2022/08/02,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-19-0145|MEX|ST_1|Cluster_NA|2019/08/28,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-21-3949|MEX|ST_1|Cluster_NA|2021/06/09,,.,0901400010543,Ciudad de Mexico,Tlahuac,.,Asignado_Municipio
+CEC-19-0697|MEX|ST_1|Cluster_NA|2019/10/30,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0653|MEX|ST_1|Cluster_NA|2019/10/23,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0614|MEX|ST_1|Cluster_NA|2019/10/18,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0792|MEX|ST_1|Cluster_NA|2019/11/13,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-20-1710|MEX|ST_1|Cluster_NA|2020/10/13,,13229,0901400010543,Ciudad de Mexico,Tlahuac,Tlahuac 2,Asignado_Municipio
+CEC-22-8992|MEX|ST_1|Cluster_NA|2022/09/19,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-22-6705|MEX|ST_1|Cluster_NA|2022/03/07,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Centro (Area 1),Asignado_Municipio
+CEC-19-0259|MEX|ST_1|Cluster_NA|2019/09/11,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-19-0031|MEX|ST_1|Cluster_NA|2019/07/24,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-0286|MEX|ST_1|Cluster_NA|2019/09/13,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-22-8323|MEX|ST_1|Cluster_NA|2022/07/15,,02729,0900300010728,Ciudad de Mexico,Azcapotzalco,Campo Encantado,Asignado_Municipio
+CEC-19-0162|MEX|ST_1|Cluster_NA|2019/08/30,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-19-0605|MEX|ST_1|Cluster_NA|2019/10/18,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-19-0733|MEX|ST_1|Cluster_NA|2019/11/06,,07249,0900800010508,Ciudad de Mexico,Gustavo A. Madero,El Arbolillo II CROC,Asignado_Municipio
+CEC-19-0321|MEX|ST_1|Cluster_NA|2019/09/18,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0594|MEX|ST_1|Cluster_NA|2019/10/18,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-21-5279|MEX|ST_1|Cluster_NA|2021/10/20,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Popular Oriente,Asignado_Municipio
+CEC-19-0018|MEX|ST_1|Cluster_NA|2019/07/17,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-8103|MEX|ST_1|Cluster_NA|2022/06/28,,02169,0900300010728,Ciudad de Mexico,Azcapotzalco,Villas de Azcapotzalco,Asignado_Municipio
+CEC-20-1676|MEX|ST_1|Cluster_NA|2020/10/12,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Centro (Area 1),Asignado_Municipio
+CEC-19-0199|MEX|ST_1|Cluster_NA|2019/09/06,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-19-0734|MEX|ST_1|Cluster_NA|2019/11/06,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-20-1190|MEX|ST_1|Cluster_NA|2020/08/19,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Granjas Estrella,Asignado_Municipio
+CEC-21-3239|MEX|ST_1|Cluster_NA|2021/04/09,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Centro (Area 1),Asignado_Municipio
+CEC-21-3726|MEX|ST_1|Cluster_NA|2021/05/20,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-21-3061|MEX|ST_1|Cluster_NA|2021/03/24,,04720,0900500013411,Ciudad de Mexico,Coyoacan,Pedregal del Maurel,Asignado_Municipio
+CEC-19-1017|MEX|ST_1|Cluster_NA|2019/12/09,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-20-0995|MEX|ST_1|Cluster_NA|2020/07/23,,.,0900200010148,Ciudad de Mexico,Alvaro Obregon,.,Asignado_Municipio
+CEC-19-0389|MEX|ST_1|Cluster_NA|2019/09/25,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-2360|MEX|ST_1|Cluster_NA|2021/01/13,,02450,0900300010728,Ciudad de Mexico,Azcapotzalco,Las Trancas,Asignado_Municipio
+CEC-19-0315|MEX|ST_1|Cluster_NA|2019/09/18,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0921|MEX|ST_1|Cluster_NA|2019/11/27,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-20-1291|MEX|ST_1|Cluster_NA|2020/08/28,,.,0901700010070,Ciudad de Mexico,Xochimilco,.,Asignado_Municipio
+CEC-19-0035|MEX|ST_1|Cluster_NA|2019/07/24,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-19-0998|MEX|ST_1|Cluster_NA|2019/12/09,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-20-1074|MEX|ST_1|Cluster_NA|2020/08/06,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Roma Norte,Asignado_Municipio
+CEC-20-2017|MEX|ST_1|Cluster_NA|2020/11/13,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-8616|MEX|ST_1|Cluster_NA|2022/08/15,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-21-4908|MEX|ST_1|Cluster_NA|2021/09/21,,.,0900903000647,Ciudad de Mexico,Iztacalco,Campamento 2 de Octubre,Asignado_Municipio
+CEC-20-1410|MEX|ST_1|Cluster_NA|2020/09/11,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-19-0611|MEX|ST_1|Cluster_NA|2019/10/18,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-19-0124|MEX|ST_1|Cluster_NA|2019/08/28,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-19-0489|MEX|ST_1|Cluster_NA|2019/10/09,,.,0901500011074,Ciudad de Mexico,Tlalpan,.,Asignado_Municipio
+CEC-19-0309|MEX|ST_1|Cluster_NA|2019/09/18,,.,0900600010185,Ciudad de Mexico,Cuajimalpa de Morelos,.,Asignado_Municipio
+CEC-20-2019|MEX|ST_1|Cluster_NA|2020/11/13,,.,0900200010148,Ciudad de Mexico,Alvaro Obregon,Tepeaca,Asignado_Municipio
+CEC-22-9384|MEX|ST_1|Cluster_NA|2022/10/21,,09857,0901000011716,Ciudad de Mexico,Iztapalapa,San Lorenzo,Asignado_Municipio
+CEC-19-0382|MEX|ST_1|Cluster_NA|2019/09/25,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-19-0784|MEX|ST_1|Cluster_NA|2019/11/13,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-21-2469|MEX|ST_1|Cluster_NA|2021/01/25,,10100,0901100011323,Ciudad de Mexico,La Magdalena Contreras,Unidad Independencia IMSS,Asignado_Municipio
+CEC-22-7374|MEX|ST_1|Cluster_NA|2022/05/04,,.,0901000011716,Ciudad de Mexico,Iztapalapa,Santa Maria Aztahuacan,Asignado_Municipio
+CEC-19-0188|MEX|ST_1|Cluster_NA|2019/09/04,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0924|MEX|ST_1|Cluster_NA|2019/11/27,,.,0900500013411,Ciudad de Mexico,Coyoacan,.,Asignado_Municipio
+CEC-19-0388|MEX|ST_1|Cluster_NA|2019/09/25,,.,0900903000647,Ciudad de Mexico,Iztacalco,.,Asignado_Municipio
+CEC-19-1013|MEX|ST_1|Cluster_NA|2019/12/09,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-21-4782|MEX|ST_1|Cluster_NA|2021/09/08,,.,0901100011323,Ciudad de Mexico,La Magdalena Contreras,.,Asignado_Municipio
+CEC-19-0610|MEX|ST_1|Cluster_NA|2019/10/18,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-4110|MEX|ST_1|Cluster_NA|2021/06/24,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-19-0343|MEX|ST_1|Cluster_NA|2019/09/20,,02450,0900300010728,Ciudad de Mexico,Azcapotzalco,Miguel Hidalgo,Asignado_Municipio
+CEC-19-0378|MEX|ST_1|Cluster_NA|2019/09/25,,.,0900400200388,Ciudad de Mexico,Benito Juarez_CDMX,.,Asignado_Municipio
+CEC-20-1389|MEX|ST_1|Cluster_NA|2020/09/08,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-20-1660|MEX|ST_1|Cluster_NA|2020/10/09,,.,0900300010728,Ciudad de Mexico,Azcapotzalco,.,Asignado_Municipio
+CEC-19-0859|MEX|ST_1|Cluster_NA|2019/11/20,,.,0901600010020,Ciudad de Mexico,Venustiano Carranza,.,Asignado_Municipio
+CEC-20-1466|MEX|ST_1|Cluster_NA|2020/09/18,,.,0901300010885,Ciudad de Mexico,Milpa Alta,.,Asignado_Municipio
+CEC-20-1469|MEX|ST_1|Cluster_NA|2020/09/21,,.,0901300010885,Ciudad de Mexico,Milpa Alta,.,Asignado_Municipio
+CEC-22-9101|MEX|ST_1|Cluster_NA|2022/09/27,,09170,0901000011716,Ciudad de Mexico,Iztapalapa,La Colmena,Asignado_Municipio
+CEC-19-0804|MEX|ST_1|Cluster_NA|2019/11/13,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-21-4628|MEX|ST_1|Cluster_9|2021/08/19,,.,0901500011074,Ciudad de Mexico,Tlalpan,Guadalupe,Asignado_Municipio
+CEC-19-0092|MEX|ST_1|Cluster_NA|2019/08/21,,.,0900800010508,Ciudad de Mexico,Gustavo A. Madero,.,Asignado_Municipio
+CEC-22-9798|MEX|ST_1|Cluster_NA|2022/12/07,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Roma Norte,Asignado_Municipio
+CEC-19-0412|MEX|ST_1|Cluster_NA|2019/10/02,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,.,Asignado_Municipio
+CEC-22-8931|MEX|ST_1|Cluster_NA|2022/09/08,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-7198|MEX|ST_1|Cluster_NA|2022/04/19,,.,0900700010638,Ciudad de Mexico,Cuauhtemoc,Juarez,Asignado_Municipio
+CEC-19-0305|MEX|ST_1|Cluster_NA|2019/09/17,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
+CEC-22-9161|MEX|ST_1|Cluster_NA|2022/09/30,,15940,0901600010020,Ciudad de Mexico,Venustiano Carranza,Morelos,Asignado_Municipio
+CEC-19-0615|MEX|ST_1|Cluster_NA|2019/10/18,,.,0901000011716,Ciudad de Mexico,Iztapalapa,.,Asignado_Municipio
