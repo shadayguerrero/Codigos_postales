@@ -30,6 +30,7 @@ Este proyecto implementa una metodología híbrida para asignar códigos AGEB (�
 
 ### 🎯 Datasets de Salida
 - **`cieni_geo_data_cp_corregidos.csv`** - Dataset final con AGEB asignados
+- **`cieni_geo_data_cp_corregidos_with_clusters.csv`** - Dataset final con AGEB asignados, cluster_trace, phylocluster
 
 ---
 
